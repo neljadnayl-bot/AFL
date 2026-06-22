@@ -24,5 +24,6 @@ include '../Includes/header.php';
 </head>
 <body>
     <h2>Accueil</h2>
+    <button><a href="https://github.com/neljadnayl-bot/AFL/">Github</a></button>
 </body>
 </html>
