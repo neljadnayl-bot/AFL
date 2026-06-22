@@ -34,6 +34,6 @@ if ($_POST['pass'] === $pass) {
     </style>
 </head>
 <body>
-    
+    <h1>Accueil</h1>
 </body>
 </html>
