@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteRule ^Accueil/?$ Pages/home.php [L]
+
+RewriteRule ^Mission/?$ Pages/agents.php [L]
+
+RewriteRule ^Magasin/?$ Pages/shop.php [L]
+
+RewriteRule ^Connexion/?$ Login/form.php [L]
