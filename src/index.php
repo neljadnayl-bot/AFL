@@ -1,6 +1,8 @@
 <?php
 
-if ($_POST['pass'] === "AFLMJ") {
+require_once __DIR__ . '../Database/password.php';
+
+if ($_POST['pass'] === $pass) {
         include 'Includes/header.php';
         include '/home/jad/data/Sites/Cherobe.esp/src/Pages/home.php';
 } else {
