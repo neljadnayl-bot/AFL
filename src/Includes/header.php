@@ -5,7 +5,7 @@
         <button><a href="../Pages/shop.php">Magasin</a></button>
         <button><a href="../Pages/agents.php">Mission</a></button>
         <button><a href="../Login/form.php" class="Connect">Connexion</a></button>
-        <button><a href="https://github.com/neljadnayl-bot/AFL">Github</a></button>
+        <button><a href="https://github.com/neljadnayl-bot/AFL/">Github</a></button>
     </nav>
 </header>
 
