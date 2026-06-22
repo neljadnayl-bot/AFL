@@ -2,7 +2,6 @@
     <h1>AFL</h1>
     <nav>
         <button><a href="../Pages/home.php">Accueil</a></button>
-        <button><a href="../Pages/shop.php">Magasin</a></button>
         <button><a href="../Pages/agents.php">Mission</a></button>
         <button><a href="../Login/form.php" class="Connect">Connexion</a></button>
     </nav>
